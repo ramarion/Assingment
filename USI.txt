@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 USI:1013858
 Name:Raoulex Nurse
+=======
+USI:1013858
+Name:Raoulex Nurse
+>>>>>>> 2a22cfb91b9d325ac1e1cf565577290a7190e9d2
